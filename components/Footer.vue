@@ -33,7 +33,7 @@
 				<div class="md:w-[50%] pt-4">
 					<div class="text-lg font-semibold text-[#282828]">Alibaba Group</div>
 					<div class="text-[#999999] text-sm">
-						Alibaba Group Website, Nuxt-Shop, Alimama, Alipay, Fliggy, Alibaba
+						Nuxt-Shop Group Website, Nuxt-Shop, Alimama, Alipay, Fliggy, Alibaba
 						Cloud, Alibaba International, AliTelecom, DingTalk, Juhuasuan,
 						Taobao Marketplace, Tmall, Taobao Global, AliOS, 1688
 					</div>
