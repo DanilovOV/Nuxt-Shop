@@ -6,6 +6,7 @@ export default defineNuxtConfig({
 		'@pinia/nuxt',
 		// '@nuxtjs/supabase',
 		'nuxt-icon',
+		'nuxt-lodash',
 	],
 	runtimeConfig: {
 		public: {
